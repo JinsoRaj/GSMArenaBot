@@ -1,5 +1,4 @@
 const { Telegraf } = require('telegraf')
-const axios = require("axios");
 const request = require('request-promise');
 const cheerio = require('cheerio');
 const dotenv = require('dotenv');
